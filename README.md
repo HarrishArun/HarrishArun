@@ -1,5 +1,5 @@
 # 💫 About Me:
-A B.Tech Computer Science Engineering student at SRM Institute of<br>Science and Technology. My academic journey has led me to explore diverse areas such as Development, Designing, Leadership, and Management. I specialize in App Development and Web development, UI/UX design I thrive as a quick learner and critical thinker,constantly embracing new skills and ideas to solve complex challenges. My commitment to continuous improvement drives my passion for innovation, making me a versatile asset in<br>dynamic environments.<br>
+A B.Tech Computer Science Engineering student at SRM Institute of Science and Technology. My academic journey has led me to explore diverse areas such as Development, Designing, Leadership, and Management. I specialize in App Development and Web development, UI/UX design I thrive as a quick learner and critical thinker,constantly embracing new skills and ideas to solve complex challenges. My commitment to continuous improvement drives my passion for innovation, making me a versatile asset in<br>dynamic environments.<br>
 
 
 ## 🌐 Socials:
